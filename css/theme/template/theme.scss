@@ -13,6 +13,7 @@ body {
 	font-family: $mainFont;
 	font-size: $mainFontSize;
 	font-weight: 200;
+	line-height:1.5;
 	letter-spacing: -0.02em;
 	color: $mainColor;
 }
@@ -161,3 +162,8 @@ body {
 	}
 
 
+// misc
+
+.reveal .mod-top p {
+	font-size:60px;
+}
